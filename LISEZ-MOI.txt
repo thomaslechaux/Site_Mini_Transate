@@ -1,0 +1,31 @@
+MTREIZ — Site HTML, CSS et JavaScript
+===================================
+
+OUVRIR LE SITE
+1. Extraire tout le fichier ZIP.
+2. Ouvrir le dossier mtreiz.
+3. Double-cliquer sur index.html (ou OUVRIR-LE-SITE.html).
+
+Aucune installation, dépendance ou compilation n'est nécessaire.
+Gardez tous les fichiers et le dossier images ensemble.
+
+MODIFIER LE SITE
+- index.html : textes, sections, boutons et liens.
+- style.css : couleurs, typographie, disposition et affichage mobile.
+- script.js : menu, galerie et préparation du message de contact.
+- images/ : illustrations et photographies.
+- plaquette-partenaires-mtreiz.pdf : plaquette téléchargeable.
+
+Ouvrez les fichiers dans un éditeur de texte, enregistrez vos changements,
+puis actualisez la page dans votre navigateur.
+Pour changer la cartographie, cherchez « Voir la cartographie » dans index.html.
+
+HÉBERGER LE SITE
+Transférez le contenu de ce dossier sur un hébergement de site statique.
+index.html doit se trouver à la racine du site. Aucune étape de compilation.
+
+À SAVOIR
+Le site fonctionne hors ligne. Les liens vers Instagram et les cartographies
+nécessitent Internet. Le formulaire ouvre votre messagerie avec un brouillon ;
+il n'envoie rien automatiquement. Une messagerie configurée est nécessaire.
+Les dates du programme 2027 et les participations restent prévisionnelles.
